@@ -1,0 +1,80 @@
+.accountName {
+    color: white;
+    padding-top: 50px;
+    font-size: 35px;
+    text-align: center;
+}
+
+.customButtonAccount {
+    width: 150px;
+    height: 40px;
+    font-size: 16px;
+    text-align: center;
+    border-radius: 8px;
+
+}
+
+#boxes {
+    min-width: 1000px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+#leftbox {
+    float: left;
+    background-color: #000000;
+    width: 32%;
+    height: 150px;
+}
+
+#middlebox {
+    float: left;
+    background-color: #000000;
+    width: 36%;
+    height: 150px;
+}
+
+#rightbox {
+    float: right;
+    background-color: #000000;
+    width: 32%;
+    height: 150px;
+    text-align: center;
+    display: flex;
+    align-items: center;
+}
+
+
+.accountContainer {
+    background-color: #AAAAAA;
+    width: 400px;
+    height: auto;
+    display: flex;
+    flex-direction: column;
+    border: black;
+    border-radius: 5px;
+    border-style: solid;
+    padding: 20px;
+    margin: auto;
+    margin-top: 60px;
+}
+
+.accountContainer>form>h5 {
+    margin-top: 25px;
+    margin-bottom: 25px;
+    font-size: 25px;
+    text-align: center;
+}
+
+.accountBackground {
+    background-color: #D7D7D7;
+    height: 100%;
+    min-height: 1000px;
+    min-width: 1000px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.historyButton {
+    text-align: center;
+}

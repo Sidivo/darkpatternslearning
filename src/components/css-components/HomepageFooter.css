@@ -1,0 +1,33 @@
+#boxes2 {
+    background-color: #AAAAAA;
+    text-align: center;
+    padding-top: 20px;
+    margin-left: auto;
+    margin-right: auto;
+    min-width: 1000px;
+}
+
+
+#leftbox2 {
+    float: left;
+    background-color: #AAAAAA;
+    width: 32%;
+    height: 80px;
+    padding-top: 30px;
+}
+
+#middlebox2 {
+    float: left;
+    width: 36%;
+    background-color: #AAAAAA;
+    height: 80px;
+    padding-top: 30px;
+}
+
+#rightbox2 {
+    float: right;
+    background-color: #AAAAAA;
+    width: 32%;
+    height: 80px;
+    padding-top: 30px;
+}

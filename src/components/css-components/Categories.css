@@ -1,0 +1,110 @@
+.categories {
+    background-color: #D7D7D7;
+}
+
+.CategoriesName {
+    color: white;
+    padding-top: 50px;
+    font-size: 35px;
+    text-align: center;
+    min-width: 1000px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.CustomButton {
+    width: 150px;
+    height: 40px;
+    font-size: 16px;
+    text-align: center;
+    border-radius: 8px;
+}
+
+#leftbox {
+    float: left;
+    background-color: #000000;
+    width: 32%;
+    height: 150px;
+    margin-bottom: 30px;
+}
+
+#middlebox {
+    float: left;
+    background-color: #000000;
+    width: 36%;
+    height: 150px;
+    margin-bottom: 30px;
+}
+
+#rightbox {
+    float: right;
+    background-color: #000000;
+    width: 32%;
+    height: 150px;
+    text-align: center;
+    display: flex;
+    align-items: center;
+    margin-bottom: 30px;
+}
+
+.customContent {
+    height: 1000px;
+    text-align: justify;
+    text-justify: inter-word;
+    padding-bottom: 50px;
+    width: 1000px;
+    margin-left: auto;
+    margin-right: auto;
+
+}
+
+.CustomHeader2 {
+    text-align: center;
+    padding-top: 50px;
+    padding-bottom: 50px;
+    font-size: 40px;
+
+}
+
+.CustomHeader1 {
+    text-align: center;
+    font-style: italic;
+    color: darkslategrey;
+}
+
+.CustomHeader3 {
+    text-align: center;
+    padding-top: 50px;
+    padding-bottom: 50px;
+    font-size: 25px;
+}
+
+.categoriesButton {
+    width: 250px;
+    height: 80px;
+    padding: 2px 2px 2px 2px;
+    border: 3px solid #000000;
+    background-color: #ffffff;
+    box-sizing: border-box;
+    font-size: 28px;
+    color: #333333;
+    text-align: center;
+    line-height: normal;
+    margin-right: 80px;
+    margin-left: 80px;
+}
+
+.divCategoriesButton1 {
+    text-align: center;
+    margin-top: 20px;
+}
+
+.divCategoriesButton2 {
+    text-align: center;
+    margin-top: 20px;
+}
+
+.divCategoriesButton3 {
+    text-align: center;
+    margin-top: 20px;
+}

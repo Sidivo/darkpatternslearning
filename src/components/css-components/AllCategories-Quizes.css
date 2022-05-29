@@ -1,0 +1,310 @@
+#sides {
+    background-color: #D7D7D7;
+}
+
+
+.ObstructionName {
+    color: white;
+    padding-top: 50px;
+    font-size: 35px;
+    text-align: center;
+}
+
+.CustomButtonObstruction {
+    width: 150px;
+    height: 40px;
+    font-size: 16px;
+    text-align: center;
+    border-radius: 8px;
+    margin-left: 100px;
+}
+
+.BodyH1 {
+    text-align: center;
+}
+
+.BodyText1 {
+    margin: auto;
+    width: 50%;
+    margin-top: 30px;
+    margin-bottom: 50px;
+}
+
+
+.BodyText2 {
+    text-align: center;
+    margin: auto;
+    width: 30%;
+    padding-bottom: 30px;
+}
+
+
+#leftbox {
+    float: left;
+    background-color: #000000;
+    width: 32%;
+    height: 150px;
+}
+
+#middlebox {
+    float: left;
+    background-color: #000000;
+    width: 36%;
+    height: 150px;
+}
+
+#rightbox {
+    float: right;
+    background-color: #000000;
+    width: 32%;
+    height: 150px;
+    text-align: center;
+    display: flex;
+    align-items: center;
+}
+
+#leftside {
+    text-align: center;
+    float: left;
+    width: 49.5%;
+    height: auto;
+    background-color: #D7D7D7;
+    margin-bottom: 30px;
+    border-bottom: #000000 solid;
+    border-left: #000000 solid;
+    border-right: black solid;
+}
+
+#naggingMiddle {
+    text-align: center;
+    float: left;
+    width: 100%;
+    height: 500px;
+    background-color: #D7D7D7;
+    margin-bottom: 30px;
+    border-bottom: #000000 solid;
+}
+
+#middleside {
+    text-align: center;
+    float: left;
+    height: auto;
+    width: 0.2%;
+    background-color: black;
+    margin-bottom: 30px;
+
+}
+
+
+#rightside {
+    text-align: center;
+    float: right;
+    width: 49.5%;
+    height: auto;
+    background-color: #D7D7D7;
+    margin-bottom: 30px;
+    border-bottom: #000000 solid;
+    border-left: #000000 solid;
+    border-right: black solid;
+}
+
+
+
+.obstructionTypesH1 {
+    border-top: #000000 solid;
+    margin-bottom: 50px;
+}
+
+.obstructionTexts {
+    width: 70%;
+    text-align: justify;
+    text-justify: inter-word;
+    margin: auto;
+}
+
+.example1 {
+    font-size: 20px;
+    margin-top: 30px;
+    margin-bottom: 20px;
+}
+
+.example2 {
+    font-size: 20px;
+    margin-top: 30px;
+    margin-bottom: 20px;
+}
+
+.exampleExplanation1 {
+    font-style: italic;
+    font-size: 15px;
+    font-weight: normal;
+    margin-bottom: 30px;
+}
+
+.exampleExplanation2 {
+    font-style: italic;
+    font-size: 15px;
+    font-weight: normal;
+    margin-bottom: 30px;
+}
+
+.exampleExplanation3 {
+    font-style: italic;
+    font-size: 15px;
+    font-weight: normal;
+    margin-bottom: 30px;
+}
+
+.obstructionTexts2 {
+    width: 70%;
+    text-align: justify;
+    text-justify: inter-word;
+    margin: auto;
+    margin-bottom: 30px;
+}
+
+
+
+.sneakingTexts2 {
+    width: 70%;
+    text-align: justify;
+    text-justify: inter-word;
+    margin: auto;
+    margin-bottom: 26px;
+}
+
+.naggingTexts {
+    width: 50%;
+    text-align: justify;
+    text-justify: inter-word;
+    margin: auto;
+}
+
+.obstructionFooterH1 {
+    width: 100%;
+    text-align: center;
+    text-justify: inter-word;
+    margin: auto;
+    font-size: 20px;
+}
+
+
+.obstructionFooterH1div {
+    display: flex;
+    width: 100%;
+    text-align: center;
+}
+
+.goToObstructionTestButtonDiv {
+    margin: auto;
+    width: 200px;
+    height: 40px;
+    font-size: 20px;
+    margin-top: 30px;
+    padding-bottom: 30px;
+}
+
+.goToObstructionTestButton {
+    width: 200px;
+    height: 40px;
+}
+
+.obstructionQuizForm {
+    margin: auto;
+    background-color: #7F7F7F;
+    width: 450px;
+    min-height: 200px;
+    height: min-content;
+    border: #000000;
+    border: solid;
+    padding: 40px;
+    text-align: center;
+}
+
+.score-section {
+    text-align: center;
+    margin: auto;
+    font-size: 24px;
+    margin-top: 70px;
+}
+
+.question-section {
+    width: 100%;
+    position: relative;
+    font-size: 20px;
+}
+
+.question-count {
+    margin-bottom: 20px;
+}
+
+.question-count span {
+    font-size: 20px;
+}
+
+.question-text {
+    margin-bottom: 12px;
+}
+
+.answer-section {
+    text-align: center;
+    margin-top: 20px;
+    margin-bottom: 40px;
+}
+
+.obstructionQuizButton {
+    width: 190px;
+    height: 50px;
+    font-size: 16px;
+    margin: auto;
+    color: black;
+    padding: 5px;
+    cursor: pointer;
+    border: 1px solid black;
+    border-radius: 5px;
+    margin-left: 20px;
+    margin-right: 20px;
+    margin-bottom: 20px;
+}
+
+
+.obstructionQuizButton svg {
+    margin-right: 5px;
+}
+
+.obstructionQuizH1 {
+    font-size: 30px;
+    margin-bottom: 100px;
+    text-align: center;
+    width: 55%;
+    margin: auto;
+}
+
+.obstructionQuizH1Underline {
+    text-decoration: underline;
+    font-style: italic;
+    font-size: 30px;
+    margin-bottom: 100px;
+    text-align: center;
+    width: 55%;
+    margin: auto;
+}
+
+.obstructionQuiz {
+    background-color: #D7D7D7;
+    height: 1000px;
+}
+
+.obstructionQuizTopMargin {
+    margin-top: 60px;
+}
+
+.customButtonGoToHistory {
+    height: 30px;
+    width: 150px;
+}
+
+.customButtonGoToHistoryDiv {
+    padding-top: 20px;
+    margin: auto;
+}

@@ -1,0 +1,46 @@
+.HomepageName {
+    color: white;
+    padding-top: 50px;
+    font-size: 35px;
+    text-align: center;
+}
+
+.CustomButton {
+    width: 150px;
+    height: 40px;
+    font-size: 16px;
+    text-align: center;
+    border-radius: 8px;
+}
+
+#boxes {
+    margin-left: auto;
+    margin-right: auto;
+    min-width: 1000px;
+}
+
+
+
+#leftbox {
+    float: left;
+    background-color: #000000;
+    width: 32%;
+    height: 150px;
+}
+
+#middlebox {
+    float: left;
+    background-color: #000000;
+    width: 36%;
+    height: 150px;
+}
+
+#rightbox {
+    float: right;
+    background-color: #000000;
+    width: 32%;
+    height: 150px;
+    text-align: center;
+    display: flex;
+    align-items: center;
+}

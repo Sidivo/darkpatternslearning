@@ -1,0 +1,16 @@
+.content {
+  width: 900px;
+  margin-left: auto;
+  margin-right: auto;
+  padding-bottom: 50px;
+}
+
+.Homepage {
+  background-color: #D7D7D7;
+}
+
+.CustomH1 {
+  text-align: center;
+  padding-top: 50px;
+  padding-bottom: 50px;
+}
